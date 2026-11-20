@@ -1,0 +1,41 @@
+h1 {
+    color: #f4f6fa;
+    font-size: 32px;
+}
+
+h2 {
+    color: #f4f6fa;
+    font-size: 32px;
+}
+
+p {
+    color: #f4f6fa;
+    font-size: 32px;
+}
+
+body {
+    text-align: center;
+    background-color: #90c5ec;
+    line-height: 1.5;
+}
+
+ul {
+    color: #f4f6fa;
+    font-size: 32px;
+    display: inline-block;
+    text-align: left;
+    max-width: 800px;
+}
+
+.button {
+    padding: 10px 16px;
+    background-color: #2563eb;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+}
+
+.button:hover,
+.button:focus {
+    background-color: #1d4ed8;
+}
